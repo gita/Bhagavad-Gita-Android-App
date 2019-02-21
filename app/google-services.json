@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "772629462081",
+    "firebase_url": "https://bhagavadgita-aab81.firebaseio.com",
+    "project_id": "bhagavadgita-aab81",
+    "storage_bucket": "bhagavadgita-aab81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772629462081:android:a23d1968a8d9f4ab",
+        "android_client_info": {
+          "package_name": "com.hanuman.bhagavadgita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772629462081-51ur3vctibh6on48drd1lgrjg1mmvt5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanuman.bhagavadgita",
+            "certificate_hash": "6e95b00073564ded45aa2be898ecb2c524307528"
+          }
+        },
+        {
+          "client_id": "772629462081-v3uj9np8501053q0htspkib377u2gmab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGmD0r6ND_OFIrwq4zKGa0clYINZ2E7L8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772629462081-v3uj9np8501053q0htspkib377u2gmab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
